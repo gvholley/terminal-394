@@ -7,3 +7,4 @@ git status
 -> make a commit
 git add file/folder name
 git commit --message "meaningful message"
+git commit --m "meaningful message"
