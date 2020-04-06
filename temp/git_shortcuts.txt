@@ -1,0 +1,9 @@
+-> to start git
+git init
+
+-> check the (dirty) files
+git status
+
+-> make a commit
+git add file/folder name
+git commit --message "meaningful message"

@@ -1,0 +1,41 @@
+-> "Where am I?"
+pwd
+-> short list of folder contents
+ls
+-> long list of folder contents
+ll
+-> change directories
+cd folder_name
+-> go backwards
+cd ..
+-> create a directory
+mkdir folder_name
+-> remove a file
+rm filename
+-> remove a folder
+rm -r folder_name
+-> move a file
+mv file_name folder_name
+-> rename a file
+mv file_name new_file_name
+-> open Sublime in current folder
+stt
+-> open a file
+open file_name
+-> read a file
+cat file_name
+# SHORTCUTS
+option + click
+-> move cursor to that place
+ctrl + a
+-> moves cursor to front
+ctrl + e
+-> moves cursor to end
+ctrl + u
+-> deletes the whole line
+up or down button
+-> navigate old commands
+ctrl + l
+-> move current line to top
+cmd + k
+-> erase everything in the terminal
